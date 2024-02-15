@@ -1,3 +1,4 @@
+ ![stacked](https://github.com/Islamic-School-Of-Irving-Coding-Club/LibGdx-Tutorial/assets/113306690/806f9684-5f78-4314-a309-452e32654ba3)
 # LibGDX Tutorial Assignment
 
 Welcome to the LibGDX tutorial assignment! In this assignment, you will complete a tutorial provided by LibGDX to learn the basics of game development using this powerful framework.
@@ -15,6 +16,7 @@ To begin the assignment, follow these steps:
 ## Additional Requirements
 
 - **Development Environment:** Use IntelliJ IDEA as your development environment for this assignment.
+
 
 - **Due Date:** The assignment is due by the end of the day next Thursday. Make sure to submit your completed work on time.
 
