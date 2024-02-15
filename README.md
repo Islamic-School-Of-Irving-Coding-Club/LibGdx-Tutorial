@@ -3,15 +3,35 @@
 
 Welcome to the LibGDX tutorial assignment! In this assignment, you will complete a tutorial provided by LibGDX to learn the basics of game development using this powerful framework.
 
+## Introduction to Game Development
+
+Before diving into the LibGDX tutorial, it's essential to understand the basics of game development and the tools you'll be using. Please watch the following videos to get a better understanding:
+
+- [What is a Game App?](https://youtu.be/fN5mOxozE3c)
+- [What is a Game Engine?](https://youtu.be/Ar6PlKdZkRA)
+- [What is LibGDX?](https://youtu.be/hSmWT51yQgk)
+- [What is Gradle?](https://youtu.be/cUGWEQ8NLHk)
+
+## Setting Up the LibGDX Environment
+
+Before attempting the tutorial, ensure that you have set up the LibGDX environment properly. Follow the setup tutorials provided by LibGDX:
+
+- [Setting Up a Development Environment](https://libgdx.com/wiki/start/setup)
+- [Creating Your First LibGDX Project](https://libgdx.com/wiki/start/project-generation)
+- [Importing & Running It](https://libgdx.com/wiki/start/import-and-running)
+
+Once you have completed the setup, you're ready to proceed with the tutorial.
+
 ## Getting Started
 
 To begin the assignment, follow these steps:
 
-1. **Clone this Repository:** Clone or fork this repository to your local machine
+1. **Clone this Repository:** Clone or fork this repository to your local machine.
 
 2. **Access the LibGDX Tutorial:** Visit the [LibGDX tutorial page](https://libgdx.com/dev/simple-game/) to access the tutorial.
 
 3. **Follow the Tutorial:** Follow the steps outlined in the tutorial to learn about various aspects of game development with LibGDX.
+
 
 ## Additional Requirements
 
